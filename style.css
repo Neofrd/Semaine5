@@ -1,0 +1,25 @@
+#conteneur
+{
+    width:100%x;
+    width-mi:960px
+    paddin-left:10px;
+    margin:15px;
+}
+#titre_principal
+{
+    display: flex;
+    flex-direction: column;
+    color: blue;
+}
+header
+{
+    background: url('Fonds/kindajean.png') fixed repeat-x;
+}
+main
+{
+    background: url('Fonds/pw_maze_white.png') fixed repeat-x;
+}
+footer
+{
+    background: url('Fonds/white_wall.png') fixed repeat-x;
+}
