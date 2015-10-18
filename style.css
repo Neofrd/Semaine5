@@ -11,15 +11,19 @@
     flex-direction: column;
     color: blue;
 }
+section p
+{
+    padding-left:10px
+}
 header
 {
-    background: url('Fonds/kindajean.png') fixed repeat-x;
+    background: url('Fonds/kindajean.png') fixed repeat;
 }
 main
 {
-    background: url('Fonds/pw_maze_white.png') fixed repeat-x;
+    background: url('Fonds/pw_maze_white.png') fixed repeat;
 }
 footer
 {
-    background: url('Fonds/white_wall.png') fixed repeat-x;
+    background: url('Fonds/white_wall.png') fixed repeat;
 }
