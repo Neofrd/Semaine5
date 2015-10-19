@@ -1,28 +1,36 @@
 #conteneur
 {
-    width:100%x;
-    width-mi:960px
-    paddin-left:10px;
+    width:100%;
+    width-min:960px
+    padding-left:10px;
     margin:15px;
 }
-#titre_principal
+footer
 {
     display: flex;
     flex-direction: column;
     color: blue;
 }
+#titre_image
+{
+    background-radius:5px;
+    width:40%;
+    width-min:200px;
+}
+#titre_nom
+{
+    background-shadow:5px, black;
+}
+
 section p
 {
-    padding-left:10px
+    padding-left:10px;
 }
 header
 {
     background: url('Fonds/kindajean.png') fixed repeat;
 }
-main
-{
-    background: url('Fonds/pw_maze_white.png') fixed repeat;
-}
+
 footer
 {
     background: url('Fonds/white_wall.png') fixed repeat;
