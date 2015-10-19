@@ -11,11 +11,15 @@
   <div class="conteneur">
   
       <header>
-        <div id="titre_principal"></div>
-            <img src="images\board-953155.jpg" alt="Tableau" width=80px height=80px />
-            <h2>Franck DANIEL</h2>
-            <h3>Entrepreneur</h3>
-        </div>
+            <div id="titre_image">
+                <img src="images\board-953155.jpg" alt="Tableau" width=80px height=80px />
+            </div>
+            <div id="titre_nom">
+                <h2>Franck DANIEL</h2>
+            </div>
+            <div id="titre_poste">
+                <h3>Entrepreneur</h3>
+            </div>
       </header>
 
         <section>
@@ -97,13 +101,13 @@
             <p></p>
         </section>
 
-    <footer>
+        <footer>
 
-      <p> Franck DANIEL</p>
-      <p> neofrd@hotmail.fr</p>
-      <p> projet sur Toulouse</p>
+          <p> Franck DANIEL</p>
+          <p> neofrd@hotmail.fr</p>
+          <p> projet sur Toulouse</p>
 
-    </footer>
+        </footer>
     </div>
 </body>
 </html>
